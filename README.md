@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ABOUT
 DWITRI is a Social Networking Script based by Codeigniter (PHP) to build your own community site. By using this script you can build awesome website. There is some modules included on it:
 1. Timeline and Wall System (Facebook wall similar),
@@ -41,3 +42,7 @@ Added by user **@marvelhoax**
 ![17966219_446210955714879_2196607917711005785_o](https://cloud.githubusercontent.com/assets/26195765/25063938/661a57b6-21df-11e7-8f81-64afbdfa471e.jpg)
 ![17522684_446211059048202_8388583859447282129_n](https://cloud.githubusercontent.com/assets/26195765/25063941/6b7b02f0-21df-11e7-8910-70c1f9569ba9.jpg)
 ![17972299_446211025714872_3206267239385817332_o](https://cloud.githubusercontent.com/assets/26195765/25063944/7093a846-21df-11e7-802f-85ac392aeed8.jpg)
+=======
+# kokngoding
+KokNgoding.ID Project :)
+>>>>>>> origin/master
