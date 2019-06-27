@@ -163,7 +163,7 @@
 						<div class="page-header">
 							<h4>&nbsp;</h4>
 						</div>
-						<a class="ajaxLoad" href="<?php echo base_url('pages/contact'); ?>"><img src="<?php echo base_url('themes/default/images/large_logo.png'); ?>" alt="logo" width="128" /></a>
+						<a class="ajaxLoad" href="<?php echo base_url('pages/contact'); ?>"><img src="<?php echo base_url('themes/default/images/large_logo.png'); ?>" alt="logo" width="270" height="150" /></a>
 					</div>
 					<div class="col-sm-3">
 						<div class="page-header" style="margin-bottom:0">
