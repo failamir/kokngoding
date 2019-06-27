@@ -36,8 +36,12 @@
        url('raleway-v11-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
        url('raleway-v11-latin-600.svg#Raleway') format('svg'); /* Legacy iOS */
 }
+/*@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');*/
+@import url('https://fonts.googleapis.com/css?family=Assistant:200&display=swap');
 body, input, select, textarea, button, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, a, b, span, i {
-	font-family: 'Raleway', sans-serif;
+	/*font-family: 'Raleway', sans-serif;*/
+  /*font-family: 'Open Sans', sans-serif;*/
+  font-family: 'Assistant', sans-serif;
 }
 h1, h2, h3, h4, h5, h6, b, strong
 {

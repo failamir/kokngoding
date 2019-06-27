@@ -211,9 +211,10 @@
 						&nbsp; - &nbsp; 
 						<a href="<?php echo base_url('pages/contact'); ?>" class="ajaxLoad"><?php echo phrase('feedback'); ?></a>
 						<br />
-						<?php echo phrase('another_awesome_build_with'); ?> Codeigniter <?php echo CI_VERSION; ?> <?php echo phrase('and'); ?> Bootstrap 3
+						<?php echo phrase('develop_by_kokngoding_iD_team_with'); ?> Codeigniter <?php echo CI_VERSION; ?>
+						<!-- <?php echo phrase('another_awesome_build_with'); ?> Codeigniter <?php echo CI_VERSION; ?> <?php echo phrase('and'); ?> Bootstrap 3 -->
 						<br />
-						<?php echo phrase('hosted_by_sponsor_server'); ?>, <a href="//extranet.co.id" target="_blank" />GES</a>
+						<!-- <?php echo phrase('hosted_by_sponsor_server'); ?>, <a href="//extranet.co.id" target="_blank" />GES</a> -->
 					</div>
 				</div>
 			</div>
